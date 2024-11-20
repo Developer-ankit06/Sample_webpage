@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/Ankit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sample_webpage"
+	}
+}
